@@ -1,0 +1,62 @@
+body{
+    background-color: #EBD8C3;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    align-items: center;
+    margin-top: 200px;
+}
+.cards-item{
+    max-width: 300px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #C3B091;
+    list-style: none;
+}
+.cards{
+    font-family: "Poppins","sans-serif";
+    
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    grid-gap: 20px;
+    padding: 0;
+}
+.card-artwork{
+    width: 290px;
+    height: 370px;
+    object-fit: contain;
+}
+.cards-link{
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
+.cards-link:hover{
+    color: white;
+    background: #000;
+    border-radius: 10px;
+}
+.cards-title{
+    margin: 20px 10px 10px 10px;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+.year{
+    font-size: 18px;
+    font-weight: 700;
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.genre,.starring{
+    color: rgba(0, 0, 0, 0.521);
+}
+.genre,.cards-genre,.starring{
+    font-size: 18px;
+    font-family: "Mukta";
+}
+hr{
+    border: 1px solid rgba(0, 0, 0, 0.062) ;
+}

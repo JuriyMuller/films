@@ -1,0 +1,23 @@
+[
+    {
+        "title":"The Walking Dead",
+        "genre":["Drama", "Horror", "Thriller"],
+        "stars":["Andrew Lincoln","Norman Reedus","Lauren Cohan","Jeffrey Dean Morgan","Chandler Riggs","Melissa Suzanne McBride","Steven Yeun","Danai Gurira","Christian Marie Serratos","Jonathan Edward «Jon» Bernthal"],
+        "artwork":"https://upload.wikimedia.org/wikipedia/ru/thumb/5/5f/The_Walking_Dead_%28season_3%29.jpg/270px-The_Walking_Dead_%28season_3%29.jpg",
+        "img":["https://thumbs.dfs.ivi.ru/storage8/contents/5/a/c8a867f0ca8802ea6c94de52b0a8e3.jpg","https://b1.filmpro.ru/c/560409.700xp.jpg","https://img8.eadaily.com/c650x400/o/ffb/9566ff999b0f5c9440191128f5a49.jpeg","https://m.spletnik.ru/img/2016/04/ayna/20160408_post_wd6.jpg"]
+    },
+    {
+        "title":"American Horror Story",
+        "genre":["Drama", "Horror", "Supernatural horror", "Thriller", "Anthology"],
+        "stars":["Evan Peters", "Sarah Paulson", "Dylan McDermott", "Jessica Lange","Frances Conroy","Taissa Farmiga","Lady Gaga","Kathy Bates","Emma Roberts","Cody Fern"],
+        "artwork":"https://avatars.mds.yandex.net/get-zen_doc/1591494/pub_5d987e2e1ee34f00ae009087_5d9890af2f1e4400add24ce3/scale_1200",
+        "img":["https://www.soyuz.ru/public/uploads/files/2/7439621/202005211136442a387bdfc2.jpg","https://img05.rl0.ru/afisha/e904x508p0x0f1200x686q85i/s.afisha.ru/mediastorage/07/c2/19e6e8c4143c4475b8ee40cdc207.jpg","https://www.soyuz.ru/public/uploads/files/6/7474260/20211024132343e21882d519.jpg","https://www.soyuz.ru/public/uploads/files/6/7474262/20211024132407fe4c9a6574.jpg"]
+    },
+    {
+        "title":"The End of the F***ing World",
+        "genre":["Drama", "Adventure", "Melodrama", "Comedy", "Crime", "Thriller"],
+        "stars":["Alexander Jonathan Lawther", "Jessica Barden", "Wunmi Mosaku","Steve Oram","Naomi Ackie"],
+        "artwork":"https://m.media-amazon.com/images/I/71a2rFjeEmL._SL1000_.jpg",
+        "img":["https://filmschoolrejects.com/wp-content/uploads/2018/01/the-end-of-the-fing-world.jpg","https://junkee.com/wp-content/uploads/2019/12/endofworld.jpg","https://pics.filmaffinity.com/The_End_of_the_F_ing_World_TV_Series-335414044-large.jpg","https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/0/4/7/1284047_theendofthef___ingworldnetflix_441623.jpg"]
+    }
+]
