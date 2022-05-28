@@ -28,14 +28,18 @@ body{
     object-fit: contain;
 }
 .cards-link{
+    display: inline-block;
     text-decoration: none;
     color: black;
     padding: 5px;
+    transition: 0.5s ease;
 }
 .cards-link:hover{
     color: white;
     background: #000;
     border-radius: 10px;
+    transform: scale(1.1);
+    
 }
 .cards-title{
     margin: 20px 10px 10px 10px;
